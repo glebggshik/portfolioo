@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "acmesa";
+    font-style: normal;
+    font-weight: 400;
+    
+    src: local("acmesa"),
+         
+         url("/fonts/acmesa.TTF") format("ttf"),
+         
+  }
